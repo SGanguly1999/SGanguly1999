@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 📫 My email address is: gangulysoumyadeep231@gmail.com
 - 😄 Pronouns: He/Him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Soumyadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGanguly1999&show_icons=true&theme=radical&count_private=true)
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGanguly1999&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=radical)-->
