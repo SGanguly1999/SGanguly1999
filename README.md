@@ -5,7 +5,7 @@
 
 - 🔭 I am passionate about Computer Networks, how computer bonds.Ofcourse who doesn't love chemistry.Besides that I like to work on IoT and Machine Learning based projects.
 - 🔭 Well I am passionate coder too.I like to solve difficult algorithmic problems and active on Codeforces and Leetcode.
-- 🌱 I’m currently learning IoT and Machine Learning
+- 🌱 I’m currently learning IoT and Machine Learning.I have also contributed too open source projects like Checkstyle and Checker Framework.
 - 👯 I’m looking to collaborate on any projects and open to work in any technology
 - 📫 My email address is: gangulysoumyadeep231@gmail.com
 - 😄 Pronouns: He/Him
