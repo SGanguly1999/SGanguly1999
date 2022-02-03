@@ -7,7 +7,7 @@
 - 🔭 Well I am passionate coder too.I like to solve difficult algorithmic problems and active on Codeforces and Leetcode.
 - 🌱 I’m currently learning IoT and Machine Learning.I have also contributed too open source projects like Checkstyle and Checker Framework.
 - 👯 I’m looking to collaborate on any projects and open to work in any technology
-- 📫 My email address is: gangulysoumyadeep231@gmail.com
+- 📫 Email: gangulysoumyadeep231@gmail.com , LinkedIn: [Soumyadeep Ganguly](https://www.linkedin.com/in/soumyadeep-ganguly-5a94031a3/)
 - 😄 Pronouns: He/Him
 
 ![Soumyadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGanguly1999&show_icons=true&theme=radical&count_private=true&include_all_commits=true)         
