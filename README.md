@@ -13,3 +13,12 @@
 ![Soumyadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGanguly1999&show_icons=true&theme=radical&count_private=true&include_all_commits=true)         
 
 ![skyline](https://user-images.githubusercontent.com/42171790/152284703-45a3e354-d65a-4b6e-941e-4e626ff8ab36.jpg)
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://imageio.forbes.com/specials-images/imageserve/5e7cce1921695a000666cc29/Java-14/960x0.jpg?fit=bounds&format=jpg&width=960" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/42171790/152377163-96933c81-0edf-4ef8-9448-fd6a0c65a334.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
