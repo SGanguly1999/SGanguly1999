@@ -22,3 +22,4 @@
   <img src="https://user-images.githubusercontent.com/42171790/152377163-96933c81-0edf-4ef8-9448-fd6a0c65a334.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSGanguly1999&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
