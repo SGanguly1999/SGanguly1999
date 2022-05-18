@@ -12,8 +12,7 @@
 
 ![Soumyadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGanguly1999&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![skyline](https://user-images.githubusercontent.com/42171790/152284703-45a3e354-d65a-4b6e-941e-4e626ff8ab36.jpg)(https://github-readme-stats.vercel.app/api?username=SGanguly1999&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
+![skyline](https://user-images.githubusercontent.com/42171790/152284703-45a3e354-d65a-4b6e-941e-4e626ff8ab36.jpg)
 
 ## 🧰 Languages and Tools:
 <p align="center">
